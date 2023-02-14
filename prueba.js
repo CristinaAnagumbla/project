@@ -1,3 +1,4 @@
 function prueba() {
   print('');
+  print('');
 }
