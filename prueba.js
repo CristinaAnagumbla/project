@@ -1,1 +1,3 @@
-function prueba() {}
+function prueba() {
+  print('');
+}
