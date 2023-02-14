@@ -1,4 +1,0 @@
-function prueba() {
-  print('');
-  print('');
-}
